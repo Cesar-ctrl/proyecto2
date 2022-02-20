@@ -94,7 +94,7 @@ function App() {
                       tareas.map (item=>
                         <li className="list-group-item" key={item.id}>
                             <span className="lead">{item.name}</span>
-                            <span className="lead">Fecha: {item.fecha}</span>
+                            <span className="lead"> Fecha: {item.fecha}</span>
                             <button 
                               className="btn btn-danger btn-sm float-end"
                               onClick={e=>eliminarTarea(item.id)}
