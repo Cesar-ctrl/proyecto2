@@ -8,7 +8,7 @@ Se despliega en el puerto [http://localhost:3000](http://localhost:3000) en el n
 
 La página se recarga al hacer cambios.
 
-Está desplegada en GitHub Pages
+Está desplegada en GitHub Pages (https://cesar-ctrl.github.io/proyecto2/)
 
 ## Uso
 
